@@ -30,8 +30,8 @@
 
     <button id="btn_1">Aumentar</button>
     <button id="btn_2">Diminuir</button>
-    <button id="btn_3">Esquerda</button>
-    <button id="btn_4">Direita</button>
+    <button id="btn_3">Direita</button>
+    <button id="btn_4">Esquerda</button>
 
     <script>
         $('#btn_1').click(
